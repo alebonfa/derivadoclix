@@ -1,6 +1,32 @@
 {
   "categorias": [
     {
+      "titulo": "Derivado Cast",
+      "cor": "blue",
+      "link_extra": {
+        "text": "Melhor Podcast em Áudio e Vídeo do Brasil",
+        "url": "https://youtube.com/derivadocast"
+      },
+      "videos": [
+        {
+          "titulo": "Emmy 2020, Amor no Espectro e Normal People | Derivado Cast #192",
+          "url": "https://youtu.be/j-NvOxm0kb4"
+        },
+        {
+          "titulo": "Boca a Boca, Cursed e Desejo Sombrio | Derivado Cast #191",
+          "url": "https://youtu.be/qv7dZleeC6Y"
+        },
+        {
+          "titulo": "Sandy & Junior, The Old Guard, Fórmula 1 | Derivado Cast #190",
+          "url": "https://youtu.be/EZ1ss8lc9WE"
+        },
+        {
+          "titulo": "Warrior Nun, Gangs of London e Fórmula 1 | Derivado Cast #189",
+          "url": "https://youtu.be/ODXH2oqKOMA"
+        }
+      ]
+    },
+    {
       "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
